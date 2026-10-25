@@ -1,0 +1,13 @@
+{
+  "name": "ego-lite",
+  "displayName": "Ego Lite Browser Automation",
+  "version": "1.0.0",
+  "description": "Control Ego Lite Chromium AI browser in isolated background Task Spaces with shared login sessions.",
+  "author": "unihit",
+  "homepage": "https://github.com/unihit/antigravity-ego-lite",
+  "suggestedPrompts": [
+    "Ego Lite로 사내 그룹웨어 접속해서 메일 확인해줘",
+    "Ego Lite로 웹 대시보드 열어서 데이터 추출해줘",
+    "Ego Lite로 특정 사이트 로그인 상태로 폼 작성해줘"
+  ]
+}
